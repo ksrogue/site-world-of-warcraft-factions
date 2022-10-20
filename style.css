@@ -1,0 +1,176 @@
+body {
+    background: rgb(24, 24, 24);
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+.title_txt {
+    font-size: 32px;
+    font-family: comic sans ms;
+    text-align: center;
+    color: black;
+    text-shadow: 2px 2px grey;
+    margin: 32px;
+    border-bottom: 0.3px solid black;
+    background-color: rgb(90, 38, 0);
+}
+
+.logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 100px;
+}
+
+.alliance_sec {
+    border: 1px solid gold;
+    background-color: rgb(41, 41, 41);
+}
+
+.alliance_title {
+    text-align: center;
+    font-size: 28px;
+    font-family: segoe ui;
+    color: gold;
+    text-shadow: 2px 2px black;
+}
+
+.alliance_txt {
+    text-align: justify;
+    font-style: italic;
+    font-size: 18px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.alliance_sub_title {
+    text-align: center;
+    border-top: 1px solid gold;
+    padding: 15px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.alliance_icon {
+    border: 1.5px solid gold;
+    border-radius: 50%;
+    width: 100px;
+}
+
+.pandaren_txt {
+    margin-left: 12px;
+    margin-right: 24px;
+    font-style: italic;
+    text-align: justify;
+    padding: 12px;
+}
+
+.alliance_race_txt {
+    margin-left: 12px;
+    margin-right: 24px;
+    font-style: italic;
+    text-align: justify;
+    padding: 12px;
+    border-bottom: 1px solid black;
+}
+
+.alliance_city_name {
+    text-align: center;
+}
+
+.alliance_city_img {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid gold;
+}
+
+.alliance_city_txt {
+    text-align: center;
+    margin-left: 24px;
+    margin-right: 24px;
+    font-style: italic;
+    border-bottom: 1px solid black;
+    padding: 12px;
+}
+
+.horde_sec {
+    margin-top: 32px;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(41, 41, 41);
+}
+
+.horde_title {
+    text-align: center;
+    font-size: 28px;
+    font-family: segoe ui;
+    color: rgb(255, 0, 0);
+    text-shadow: 2px 2px black;
+}
+
+.horde_txt {
+    text-align: justify;
+    font-style: italic;
+    font-size: 18px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.horde_sub_title {
+    text-align: center;
+    border-top: 1px solid rgb(255, 0, 0);
+    padding: 15px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.horde_icon {
+    border: 1.5px solid rgb(255, 0, 0);
+    border-radius: 50%;
+    width: 100px;
+}
+
+.horde_race_txt {
+    margin-left: 12px;
+    margin-right: 24px;
+    font-style: italic;
+    text-align: justify;
+    padding: 12px;
+    border-bottom: 1px solid black;
+}
+
+.horde_city_name {
+    text-align: center;
+}
+
+.horde_city_img {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid rgb(255, 0, 0);
+}
+
+.horde_city_txt {
+    text-align: center;
+    margin-left: 24px;
+    margin-right: 24px;
+    font-style: italic;
+    border-bottom: 1px solid black;
+    padding: 12px;
+}
+
+.horde_sub_title {
+    text-align: center;
+    border-top: 1px solid rgb(255, 0, 0);
+    padding: 15px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.footer {
+    text-align: center;
+}
